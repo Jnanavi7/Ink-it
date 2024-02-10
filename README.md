@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Int-it, A React App with User Accounts
+# Ink-it, A React App with User Accounts
 
 A versatile note-taking web application built with React, featuring user account functionality. Users can sign up, log in, add, edit, and delete notes.
 
@@ -54,3 +54,8 @@ A versatile note-taking web application built with React, featuring user account
 - Edit Notes:Modify existing notes to keep information up to date.
 
 - Delete Notes:Remove unnecessary notes effortlessly.
+
+
+4. **Setting up .env file:**
+This project requires JWT secret key and MongoDB URL, so create a .env file and add values as : JWT_SECRET = "your-key"
+MONGO_URI = "your-db-url"
