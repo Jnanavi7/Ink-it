@@ -44,12 +44,13 @@ A versatile note-taking web application built with React, featuring user account
    npm start
 
 4. **How to Use:**
-   -Sign Up:Create an account to access personalized note management.
 
--Log In:Log in securely to access and interact with your notes.
+- Sign Up:Create an account to access personalized note management.
 
--Add Notes:Quickly create new notes using the intuitive interface.
+- Log In:Log in securely to access and interact with your notes.
 
--Edit Notes:Modify existing notes to keep information up to date.
+- Add Notes:Quickly create new notes using the intuitive interface.
 
--Delete Notes:Remove unnecessary notes effortlessly.
+- Edit Notes:Modify existing notes to keep information up to date.
+
+- Delete Notes:Remove unnecessary notes effortlessly.
